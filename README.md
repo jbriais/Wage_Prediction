@@ -2,6 +2,7 @@
 
 I implemented a multiple linear regression model to predict the hourly wage of a hypothetical new employee, using Python.
 
+Data source provided by my teacher.
 
 - Descriptive statistics on the dataset;
 - Data visualisation on Python using MatplotLib;
